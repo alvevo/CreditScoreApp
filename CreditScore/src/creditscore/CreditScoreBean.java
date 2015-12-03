@@ -34,5 +34,4 @@ public class CreditScoreBean implements CreditScore, CreditScoreLocal {
         }
         return score;
     }
-    
 }
